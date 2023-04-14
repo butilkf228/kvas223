@@ -1,0 +1,17 @@
+body {
+    color: black;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.hero-button {
+    background-color: blueviolet;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: brown;
+    border-radius: 50%;
+}
